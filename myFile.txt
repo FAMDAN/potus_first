@@ -1,4 +1,8 @@
 hello
 hello_again
 hello, I am adding featureA
+<<<<<<< HEAD
 I am editing from main
+=======
+I am editing from featureB
+>>>>>>> featureB
